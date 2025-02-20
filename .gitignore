@@ -1,0 +1,8 @@
+# Ignore compiled files
+*.out
+*.exe
+*.o
+*.obj
+
+# Ignore files
+elearning/
