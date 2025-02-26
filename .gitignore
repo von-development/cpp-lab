@@ -3,6 +3,9 @@
 *.exe
 *.o
 *.obj
+*.
 
 # Ignore files
 elearning/
+youtube/
+
